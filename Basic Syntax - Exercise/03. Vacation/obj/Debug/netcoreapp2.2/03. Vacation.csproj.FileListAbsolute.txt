@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\bin\Debug\netcoreapp2.2\03. Vacation.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\bin\Debug\netcoreapp2.2\03. Vacation.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\bin\Debug\netcoreapp2.2\03. Vacation.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\bin\Debug\netcoreapp2.2\03. Vacation.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\bin\Debug\netcoreapp2.2\03. Vacation.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\03. Vacation\obj\Debug\netcoreapp2.2\03. Vacation.pdb

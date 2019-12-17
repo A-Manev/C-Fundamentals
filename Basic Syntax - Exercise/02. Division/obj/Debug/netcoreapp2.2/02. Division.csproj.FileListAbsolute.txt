@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\bin\Debug\netcoreapp2.2\02. Division.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\bin\Debug\netcoreapp2.2\02. Division.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\bin\Debug\netcoreapp2.2\02. Division.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\bin\Debug\netcoreapp2.2\02. Division.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\bin\Debug\netcoreapp2.2\02. Division.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\02. Division\obj\Debug\netcoreapp2.2\02. Division.pdb

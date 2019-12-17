@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.2\04. Print and sum.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.2\04. Print and sum.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.2\04. Print and sum.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.2\04. Print and sum.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.2\04. Print and sum.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.2\04. Print and sum.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.2\04. Print and sum.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.2\04. Print and sum.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.2\04. Print and sum.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.2\04. Print and sum.pdb

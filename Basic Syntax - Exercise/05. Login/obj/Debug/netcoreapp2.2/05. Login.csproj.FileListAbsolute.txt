@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.2\05. Login.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.2\05. Login.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.2\05. Login.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.2\05. Login.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.2\05. Login.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.2\05. Login.pdb

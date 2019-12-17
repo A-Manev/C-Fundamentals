@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.2\06. Strong number.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.2\06. Strong number.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.2\06. Strong number.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.2\06. Strong number.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.2\06. Strong number.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.2\06. Strong number.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.pdb
