@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.2\05. Print Part Of ASCII Table.pdb

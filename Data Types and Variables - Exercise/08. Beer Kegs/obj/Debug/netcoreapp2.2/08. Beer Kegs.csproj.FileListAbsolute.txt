@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp2.2\08. Beer Kegs.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp2.2\08. Beer Kegs.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp2.2\08. Beer Kegs.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp2.2\08. Beer Kegs.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp2.2\08. Beer Kegs.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp2.2\08. Beer Kegs.pdb

@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp2.2\11. Snowballs.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp2.2\11. Snowballs.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp2.2\11. Snowballs.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp2.2\11. Snowballs.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp2.2\11. Snowballs.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp2.2\11. Snowballs.pdb

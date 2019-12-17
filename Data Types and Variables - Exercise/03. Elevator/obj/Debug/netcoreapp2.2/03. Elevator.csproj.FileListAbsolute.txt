@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.pdb

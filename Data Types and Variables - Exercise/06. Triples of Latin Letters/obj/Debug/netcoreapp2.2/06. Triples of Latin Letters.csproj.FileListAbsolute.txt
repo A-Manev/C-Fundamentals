@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp2.2\06. Triples of Latin Letters.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp2.2\06. Triples of Latin Letters.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp2.2\06. Triples of Latin Letters.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp2.2\06. Triples of Latin Letters.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp2.2\06. Triples of Latin Letters.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp2.2\06. Triples of Latin Letters.pdb

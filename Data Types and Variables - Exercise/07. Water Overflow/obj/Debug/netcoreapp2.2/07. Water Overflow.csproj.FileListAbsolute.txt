@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp2.2\07. Water Overflow.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp2.2\07. Water Overflow.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp2.2\07. Water Overflow.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp2.2\07. Water Overflow.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp2.2\07. Water Overflow.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp2.2\07. Water Overflow.pdb

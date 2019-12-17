@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.csprojAssemblyReference.cache
