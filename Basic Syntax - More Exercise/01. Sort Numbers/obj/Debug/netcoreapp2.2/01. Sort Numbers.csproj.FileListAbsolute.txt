@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp2.2\01. Sort Numbers.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp2.2\01. Sort Numbers.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp2.2\01. Sort Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp2.2\01. Sort Numbers.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp2.2\01. Sort Numbers.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp2.2\01. Sort Numbers.pdb

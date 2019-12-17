@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp2.2\02. English Name of the Last Digit.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp2.2\02. English Name of the Last Digit.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp2.2\02. English Name of the Last Digit.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp2.2\02. English Name of the Last Digit.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp2.2\02. English Name of the Last Digit.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp2.2\02. English Name of the Last Digit.pdb

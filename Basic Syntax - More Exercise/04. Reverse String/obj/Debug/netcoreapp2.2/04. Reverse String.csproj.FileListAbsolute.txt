@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\netcoreapp2.2\04. Reverse String.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\netcoreapp2.2\04. Reverse String.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\netcoreapp2.2\04. Reverse String.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\netcoreapp2.2\04. Reverse String.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\netcoreapp2.2\04. Reverse String.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\netcoreapp2.2\04. Reverse String.pdb

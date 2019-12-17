@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\netcoreapp2.2\03. Gaming Store.deps.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\netcoreapp2.2\03. Gaming Store.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\netcoreapp2.2\03. Gaming Store.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\netcoreapp2.2\03. Gaming Store.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\netcoreapp2.2\03. Gaming Store.pdb
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.dll
+D:\C# Fundamentals - септември 2019\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\netcoreapp2.2\03. Gaming Store.pdb
