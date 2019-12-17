@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp2.2\02. From Left to The Right.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp2.2\02. From Left to The Right.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp2.2\02. From Left to The Right.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp2.2\02. From Left to The Right.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp2.2\02. From Left to The Right.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp2.2\02. From Left to The Right.pdb

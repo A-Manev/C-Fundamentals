@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp2.2\05. Decrypting Message.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp2.2\05. Decrypting Message.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp2.2\05. Decrypting Message.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp2.2\05. Decrypting Message.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp2.2\05. Decrypting Message.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp2.2\05. Decrypting Message.pdb

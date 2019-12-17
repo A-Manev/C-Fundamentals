@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp2.2\01. Data Type Finder.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp2.2\01. Data Type Finder.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp2.2\01. Data Type Finder.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp2.2\01. Data Type Finder.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp2.2\01. Data Type Finder.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp2.2\01. Data Type Finder.pdb
