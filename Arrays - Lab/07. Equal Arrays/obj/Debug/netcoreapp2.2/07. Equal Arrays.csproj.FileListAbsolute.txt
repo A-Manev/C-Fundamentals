@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.2\07. Equal Arrays.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.2\07. Equal Arrays.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.2\07. Equal Arrays.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.2\07. Equal Arrays.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.2\07. Equal Arrays.pdb
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.2\07. Equal Arrays.pdb

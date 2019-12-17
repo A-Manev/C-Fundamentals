@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.pdb
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.pdb

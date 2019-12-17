@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.2\06. Even and Odd Subtraction.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.2\06. Even and Odd Subtraction.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.2\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.2\06. Even and Odd Subtraction.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.2\06. Even and Odd Subtraction.pdb
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.2\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.2\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.2\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.2\06. Even and Odd Subtraction.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.2\06. Even and Odd Subtraction.pdb

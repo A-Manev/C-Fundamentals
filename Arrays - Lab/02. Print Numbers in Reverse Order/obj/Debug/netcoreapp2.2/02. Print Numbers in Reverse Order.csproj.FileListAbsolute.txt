@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.pdb
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.2\02. Print Numbers in Reverse Order.pdb

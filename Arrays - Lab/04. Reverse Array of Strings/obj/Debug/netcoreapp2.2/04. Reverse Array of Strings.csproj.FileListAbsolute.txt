@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.2\04. Reverse Array of Strings.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.2\04. Reverse Array of Strings.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.2\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.2\04. Reverse Array of Strings.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.2\04. Reverse Array of Strings.pdb
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.dll
+D:\C# Fundamentals - септември 2019\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.2\04. Reverse Array of Strings.pdb
