@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.pdb

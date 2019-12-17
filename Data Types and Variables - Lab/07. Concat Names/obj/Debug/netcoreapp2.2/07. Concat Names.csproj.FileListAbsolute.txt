@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.pdb

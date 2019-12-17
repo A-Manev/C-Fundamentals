@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp2.2\02. Pounds to Dollars.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp2.2\02. Pounds to Dollars.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp2.2\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp2.2\02. Pounds to Dollars.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp2.2\02. Pounds to Dollars.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp2.2\02. Pounds to Dollars.pdb

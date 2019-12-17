@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.pdb

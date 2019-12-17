@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.2\01. Convert Meters to Kilometers.pdb

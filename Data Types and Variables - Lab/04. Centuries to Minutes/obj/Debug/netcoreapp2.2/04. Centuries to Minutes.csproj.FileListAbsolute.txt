@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp2.2\04. Centuries to Minutes.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp2.2\04. Centuries to Minutes.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp2.2\04. Centuries to Minutes.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp2.2\04. Centuries to Minutes.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp2.2\04. Centuries to Minutes.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp2.2\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp2.2\04. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp2.2\04. Centuries to Minutes.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp2.2\04. Centuries to Minutes.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp2.2\04. Centuries to Minutes.pdb

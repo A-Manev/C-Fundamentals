@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.deps.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.pdb
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.dll
+D:\C# Fundamentals - септември 2019\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.pdb
