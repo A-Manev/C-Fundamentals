@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.dll
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.pdb
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.dll
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.pdb

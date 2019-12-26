@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\bin\Debug\netcoreapp2.2\AllArrayProblemsAgain.deps.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\bin\Debug\netcoreapp2.2\AllArrayProblemsAgain.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\bin\Debug\netcoreapp2.2\AllArrayProblemsAgain.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\bin\Debug\netcoreapp2.2\AllArrayProblemsAgain.dll
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\bin\Debug\netcoreapp2.2\AllArrayProblemsAgain.pdb
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.dll
+D:\C# Fundamentals - септември 2019\Arrays - More Exercise\AllArrayProblemsAgain\obj\Debug\netcoreapp2.2\AllArrayProblemsAgain.pdb
