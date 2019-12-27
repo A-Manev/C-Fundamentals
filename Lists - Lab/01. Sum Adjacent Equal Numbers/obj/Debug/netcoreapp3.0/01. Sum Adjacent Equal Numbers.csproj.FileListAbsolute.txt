@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.pdb

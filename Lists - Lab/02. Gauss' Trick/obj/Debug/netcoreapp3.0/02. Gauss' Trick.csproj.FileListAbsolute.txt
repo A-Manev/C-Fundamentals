@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.pdb

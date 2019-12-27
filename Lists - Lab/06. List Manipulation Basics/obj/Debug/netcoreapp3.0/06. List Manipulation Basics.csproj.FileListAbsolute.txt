@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.pdb

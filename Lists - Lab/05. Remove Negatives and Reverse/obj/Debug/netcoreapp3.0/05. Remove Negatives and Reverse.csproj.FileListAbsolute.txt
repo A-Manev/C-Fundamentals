@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\05. Remove Negatives and Reverse.pdb

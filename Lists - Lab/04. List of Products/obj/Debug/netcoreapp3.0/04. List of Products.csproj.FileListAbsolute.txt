@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.pdb

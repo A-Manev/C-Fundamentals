@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.exe
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.pdb
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.dll
+D:\C# Fundamentals - септември 2019\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.pdb
