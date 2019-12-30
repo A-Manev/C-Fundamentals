@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.exe
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.0\04. List Operations.pdb
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.0\04. List Operations.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.0\04. List Operations.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.0\04. List Operations.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.0\04. List Operations.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.0\04. List Operations.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.exe
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.0\08. Anonymous Threat.pdb
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.0\08. Anonymous Threat.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.0\08. Anonymous Threat.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.0\08. Anonymous Threat.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.0\08. Anonymous Threat.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.0\08. Anonymous Threat.pdb

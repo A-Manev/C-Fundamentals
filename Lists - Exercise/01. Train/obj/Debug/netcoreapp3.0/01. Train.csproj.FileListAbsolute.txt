@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.exe
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.deps.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.pdb
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.dll
+D:\C# Fundamentals - септември 2019\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.pdb
